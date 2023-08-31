@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+body{
+  background: whitesmoke;
+
+} 
+.wrap{
+  width:375px;
+  margin:auto;
+  height: auto;
+  background:rgb(196, 129, 140);
+  padding: 30px;
+ 
+
+}
+input[type=text]{
+  width:70%;
+  padding:10px;
+  font-size:22px;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 5px;
+  background-color: white;
+}
+input[type=button]{
+  width:89px;
+  padding:10px;
+  font-size:22px;
+  font-weight: bold;
+ 
+  border-radius: 5px;
+}
+#del{
+  width:20%;
+  background-color: yellowgreen;
+
+}
+#c{
+  background-color: yellowgreen;
+}
+    
+  
